@@ -1,14 +1,22 @@
 <h1>Upcoming</h1>
 <p>This is a paragraph.</p>
 
+
+<table style="width:100%">
+  <tr>
+     <td><h3>When?</h3>
+     <p>Thursday December 14th- 5:00 pm</p>
+     </td>
+     <td><img src="images/20171214_locandina.jpg" alt="yay" height="200" width="700">
+     </td>
+  <tr/>
+</table>
+
 <h3>Where?</h3>
 Area di Ricerca P. Castellino <br>
 via P.Castellino 111 Napoli <br>
-  Piano Rialzato - Stanza 11 <br>
-
-
-<h3>When?</h3>
-<p>Thursday December 14th- 5:00 pm</p>
+Piano Rialzato - Stanza 11 <br>
+<a href="https://goo.gl/maps/z6bRfCnBibv">check on the map</a>
 
 <h3>Who?</h3>
 <p>The only way to know who is the speaker is to come to the Talk&amp;Drinks! The identity of the guest will be kept secret until the very last minute.</p>
