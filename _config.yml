@@ -1,0 +1,8 @@
+title: Talk&Drinks
+description: Talk&Drinks
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
