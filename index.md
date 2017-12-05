@@ -5,9 +5,9 @@
 <table style="width:100%">
   <tr>
      <td><h3>When?</h3>
-     <p>Thursday December 14th- 5:00 pm</p>
+     <p>Thursday December 14th <br> 5:00 pm</p>
      </td>
-     <td><img src="images/20171214_locandina.jpg" alt="yay" height="200" width="700">
+     <td><img src="images/20171214_locandina.jpg" alt="yay" >
      </td>
   </tr>
 </table>
