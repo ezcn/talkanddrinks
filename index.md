@@ -1,10 +1,10 @@
-<h1>Upcoming</h1>
+<h1>Upcoming Event </h1>
 <p>This is a paragraph.</p>
 
 
 <table style="width:100%">
   <tr>
-     <td><h3>When?</h3>
+     <td><h3 style="color:#cbf078;">When?</h3>
      <p>Thursday December 14th <br> 5:00 pm</p>
      </td>
      <td><img src="images/20171214_locandina.jpg" alt="yay" height="500" width="500">
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-<h3>Where?</h3>
+<h3style="color:#cbf078;">Where?</h3>
 <p>Area di Ricerca P. Castellino <br>
 via P.Castellino 111 Napoli <br>
 Piano Rialzato - Stanza 11 <br>
@@ -20,13 +20,13 @@ Piano Rialzato - Stanza 11 <br>
 </p>
 
 
-<h3>Who?</h3>
+<h3 style="color:#cbf078;">Who?</h3>
 <p>The only way to know who is the speaker is to come to the Talk&amp;Drinks! The identity of the guest will be kept secret until the very last minute.</p>
 
 
 
 
-<h1 style="color:#cbf078">What are Talk&amp;Drinks?</h1>
+<h1 style="color:#cbf078;">What are Talk&amp;Drinks?</h1>
 <img src="images/vecchiologo.jpg" alt="formula">
 
 
