@@ -1,4 +1,4 @@
-<h1>Upcoming Event </h1>
+<h1 style="color:#e46161;" >Upcoming Event </h1>
 <p>This is a paragraph.</p>
 
 
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-<h3style="color:#cbf078;">Where?</h3>
+<h3 style="color:#cbf078;">Where?</h3>
 <p>Area di Ricerca P. Castellino <br>
 via P.Castellino 111 Napoli <br>
 Piano Rialzato - Stanza 11 <br>
@@ -26,7 +26,8 @@ Piano Rialzato - Stanza 11 <br>
 
 
 
-<h1 style="color:#cbf078;">What are Talk&amp;Drinks?</h1>
+<h1 style="color:#e46161;">What are Talk&amp;Drinks?</h1>
+
 <img src="images/vecchiologo.jpg" alt="formula">
 
 
