@@ -1,1 +1,4 @@
-sample text 
+Upcoming 
+Description
+Organizers 
+Past editions 
