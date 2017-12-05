@@ -2,9 +2,9 @@
 <p>This is a paragraph.</p>
 
 <h2>Where?</h2>
-Area di Ricerca P. Castellino
-via P.Castellino 111 Napoli
-  Piano Rialzato - Stanza 11
+Area di Ricerca P. Castellino <br>
+via P.Castellino 111 Napoli <br>
+  Piano Rialzato - Stanza 11 <br>
 
 
 <h2>When?</h2>
@@ -16,7 +16,7 @@ via P.Castellino 111 Napoli
 <h1>What are Talk&amp;Drinks?</h1>
 <p>Talk&amp;Drinks is a relaxed scientific discussions that take place every month, usually on a Thursday afternoon. </p>
 
-<p> We discuss about science 
+<p> We discuss about science
 
 
 - is an open event, if you want to subscribe a friend click here http://list.igb.cnr.it/mailman/listinfo/talk_and_drinks
