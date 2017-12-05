@@ -13,13 +13,19 @@
 </table>
 
 <h3>Where?</h3>
-Area di Ricerca P. Castellino <br>
+<p>Area di Ricerca P. Castellino <br>
 via P.Castellino 111 Napoli <br>
 Piano Rialzato - Stanza 11 <br>
 <a href="https://goo.gl/maps/z6bRfCnBibv">check on the map</a>
+</p>
+
 
 <h3>Who?</h3>
 <p>The only way to know who is the speaker is to come to the Talk&amp;Drinks! The identity of the guest will be kept secret until the very last minute.</p>
+
+
+<img src="images/vecchiologo.jpg" alt="formula">
+
 
 <h1>What are Talk&amp;Drinks?</h1>
 <p>Talk&amp;Drinks is a relaxed scientific discussions that take place every month, usually on a Thursday afternoon. </p>
@@ -46,28 +52,28 @@ We are researchers with passion for science and a willingness to reach out and t
      </td>
      <td><img src="./images/alessandra.png" alt="yay" height="200" width="700">
      </td>
-  <tr/>
+  </tr>
 
   <tr>
     <td>Enza Colonna
     </td>
     <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
     </td>
-  <tr/>
+  </tr>
 
   <tr>
      <td>Enza Lonardo
       </td>
       <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
       </td>
-  <tr/>
+  </tr>
 
   <tr>
      <td>Valeria Tarallo
       </td>
       <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
       </td>
-  <tr/>
+  </tr>
 
 </table>
 
@@ -80,21 +86,21 @@ We are researchers with passion for science and a willingness to reach out and t
   </td>
   <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
   </td>
-<tr/>
+</tr>
 
 <tr>
    <td>Ombretta Guardiola
     </td>
     <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
     </td>
-<tr/>
+</tr>
 
 <tr>
    <td>Valeria Zazzu  
     </td>
     <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
     </td>
-<tr/>
+</tr>
 
 </table>
 
