@@ -9,7 +9,7 @@
      </td>
      <td><img src="images/20171214_locandina.jpg" alt="yay" height="200" width="700">
      </td>
-  <tr/>
+  </tr>
 </table>
 
 <h3>Where?</h3>
@@ -73,7 +73,7 @@ We are researchers with passion for science and a willingness to reach out and t
 
 
 
-<h1>Past contributors </hi>
+<h1>Past contributors </h1>
 <table style="width:100%">
   <tr>
   <td>Edoardo De Tommasi
