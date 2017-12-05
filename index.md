@@ -7,7 +7,7 @@
      <td><h3 style="color:#cbf078;">When?</h3>
      <p>Thursday December 14th <br> 5:00 pm</p>
      </td>
-     <td><img src="images/20171214_locandina.jpg" alt="yay" height="500" width="500">
+     <td><img src="images/20171214_locandina.jpg" alt="yay" height="300" width="500">
      </td>
   </tr>
 </table>
