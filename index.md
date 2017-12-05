@@ -52,7 +52,7 @@ We are researchers with passion for science and a willingness to reach out and t
   <tr>
      <td>Alessandra Rogato
      </td>
-     <td><img src="./images/alessandra.png" alt="yay" height="200" width="700">
+     <td><img src="./images/alessandra.png" alt="yay" >
      </td>
   </tr>
 
