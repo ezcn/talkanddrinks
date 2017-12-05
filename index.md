@@ -1,5 +1,4 @@
 <h1 style="color:#e46161;" >Upcoming Event </h1>
-<p>This is a paragraph.</p>
 
 
 <table style="width:100%">
