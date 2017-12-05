@@ -7,7 +7,7 @@
      <td><h3>When?</h3>
      <p>Thursday December 14th <br> 5:00 pm</p>
      </td>
-     <td><img src="images/20171214_locandina.jpg" alt="yay" >
+     <td><img src="images/20171214_locandina.jpg" alt="yay" height="500" width="500">
      </td>
   </tr>
 </table>
@@ -24,10 +24,12 @@ Piano Rialzato - Stanza 11 <br>
 <p>The only way to know who is the speaker is to come to the Talk&amp;Drinks! The identity of the guest will be kept secret until the very last minute.</p>
 
 
+
+
+<h1 style="color:#cbf078">What are Talk&amp;Drinks?</h1>
 <img src="images/vecchiologo.jpg" alt="formula">
 
 
-<h1>What are Talk&amp;Drinks?</h1>
 <p>Talk&amp;Drinks is a relaxed scientific discussions that take place every month, usually on a Thursday afternoon. </p>
 
 <p> We hosts a secret guest every time to discuss about science in a broad sense: we talk about genetics, physics archeology, computers, technology and more and more... </p>  
