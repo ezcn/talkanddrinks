@@ -64,7 +64,7 @@ We are researchers with passion for science and a willingness to reach out and t
     <td> <p> <a href="http://www.igb.cnr.it/popgenlab"> Enza Colonna </a>
     <br> Population genetics and Human Evolution </p>
     </td>
-    <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
+    <td><img src="images/foto_Enza.jpg" alt="enza" height="200" width="700">
     </td>
   </tr>
 
@@ -79,7 +79,7 @@ We are researchers with passion for science and a willingness to reach out and t
   <tr>
      <td>Marco Salvemini
       </td>
-      <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
+      <td><img src="images/ph_salvemini.jpg" alt="marco" height="200" width="700">
       </td>
   </tr>
 
