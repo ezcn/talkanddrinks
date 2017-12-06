@@ -1,6 +1,7 @@
+
+
+
 <h1 style="color:#e46161;" >Upcoming Event </h1>
-
-
 <table style="width:100%">
   <tr>
      <td><h3 style="color:#cbf078;">When?</h3>
@@ -43,7 +44,7 @@ Piano Rialzato - Stanza 11 <br>
 
 
 
-<h1>Who runs the Talk&amp;Drinks?</h1>
+<h1 style="color:#e46161;">Who runs the Talk&amp;Drinks?</h1>
 
 
 We are researchers with passion for science and a willingness to reach out and talk with people
@@ -88,7 +89,7 @@ We are researchers with passion for science and a willingness to reach out and t
 
 
 
-<h1>Past contributors </h1>
+<h1 style="color:#e46161;">Past contributors </h1>
 <table style="width:100%">
   <tr>
   <td>Edoardo De Tommasi
@@ -114,4 +115,4 @@ We are researchers with passion for science and a willingness to reach out and t
 </table>
 
 
-<h1>Past editions</h1>
+<h1 style="color:#e46161;">Past editions</h1>

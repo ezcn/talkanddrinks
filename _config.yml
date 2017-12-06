@@ -1,6 +1,8 @@
 title: Talk&Drinks
-description: Science Cafè 
+description: Science Cafè
 google_analytics:
+  <img src="images/vecchiologo.jpg" alt="formula">
+
 show_downloads: true
 theme: jekyll-theme-midnight
 
