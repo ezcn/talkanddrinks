@@ -1,5 +1,4 @@
 
-<img src="images/anello_trasparente.png" alt="formula">
 
 
 <h1 style="color:#e46161;" >Upcoming Event </h1>
@@ -27,9 +26,7 @@ Piano Rialzato - Stanza 11 <br>
 
 
 
-<h1 style="color:#e46161;">What are Talk&amp;Drinks?</h1>
-
-<img src="images/vecchiologo.jpg" alt="formula">
+<h1 style="color:#e46161;">What are the Talk&amp;Drinks?</h1>
 
 
 <p>Talk&amp;Drinks is a relaxed scientific discussions that take place every month, usually on a Thursday afternoon. </p>
@@ -44,6 +41,10 @@ Piano Rialzato - Stanza 11 <br>
 <p> Talk&amp;Drinks is a self-supported event, we rely on your contribution, especially for ideas </p>
 
 
+<img src="images/vecchiologo.jpg" alt="formula">
+
+
+
 
 <h1 style="color:#e46161;">Who runs the Talk&amp;Drinks?</h1>
 
@@ -52,21 +53,24 @@ We are researchers with passion for science and a willingness to reach out and t
 
 <table style="width:100%">
   <tr>
-     <td>Alessandra Rogato
+     <td> <p><a href="http://ibbr.cnr.it/ibbr/people/alessandra-rogato"> Alessandra Rogato</a>
+     <br> Marine Genetics </p> 
      </td>
-     <td><img src="./images/alessandra.png" alt="yay" width="50%" height="50% >
+     <td><img src="./images/alessandra.png" alt="yay" width="50%" height="50%" >
      </td>
   </tr>
 
   <tr>
-    <td>Enza Colonna
+    <td> <p> <a href="http://www.igb.cnr.it/popgenlab"> Enza Colonna </a>
+    <br> Population genetics and Human Evolution </p>
     </td>
     <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
     </td>
   </tr>
 
   <tr>
-     <td>Enza Lonardo
+     <td> <p><a href="http://www.igb.cnr.it/staff/people/lonardoe"> Enza Lonardo </a>
+     <br> Gastrointestinal Cancer</p>
       </td>
       <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
       </td>
@@ -80,7 +84,8 @@ We are researchers with passion for science and a willingness to reach out and t
   </tr>
 
   <tr>
-     <td>Valeria Tarallo
+     <td><p> <a href="http://www.igb.cnr.it/staff/people/tarallo">Valeria Tarallo</a>
+     <br> Cancer and Angiogenesis</p>
       </td>
       <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
       </td>
