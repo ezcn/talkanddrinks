@@ -1,4 +1,5 @@
 
+<img src="images/anello_trasparente.png" alt="formula">
 
 
 <h1 style="color:#e46161;" >Upcoming Event </h1>
@@ -7,7 +8,7 @@
      <td><h3 style="color:#cbf078;">When?</h3>
      <p><h4 style="color:#f8f398;" > Thursday December 14th 2017  <br> 5:00 pm </h4></p>
      </td>
-     <td><img src="images/20171214_locandina.jpg" alt="yay"  width="50%" height="50%">
+     <td><img src="images/20171214_locandina.jpg" alt="yay"  width="70%" height="70%">
      </td>
   </tr>
 </table>
@@ -53,7 +54,7 @@ We are researchers with passion for science and a willingness to reach out and t
   <tr>
      <td>Alessandra Rogato
      </td>
-     <td><img src="./images/alessandra.png" alt="yay" >
+     <td><img src="./images/alessandra.png" alt="yay" width="50%" height="50% >
      </td>
   </tr>
 
