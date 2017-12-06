@@ -71,6 +71,13 @@ We are researchers with passion for science and a willingness to reach out and t
   </tr>
 
   <tr>
+     <td>Marco Salvemini
+      </td>
+      <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
+      </td>
+  </tr>
+
+  <tr>
      <td>Valeria Tarallo
       </td>
       <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
