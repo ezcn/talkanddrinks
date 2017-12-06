@@ -54,7 +54,7 @@ We are researchers with passion for science and a willingness to reach out and t
 <table style="width:100%">
   <tr>
      <td> <p><a href="http://ibbr.cnr.it/ibbr/people/alessandra-rogato"> Alessandra Rogato</a>
-     <br> Marine Genetics </p> 
+     <br> Marine Genetics </p>
      </td>
      <td><img src="./images/alessandra.png" alt="yay" width="50%" height="50%" >
      </td>
@@ -87,7 +87,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td><p> <a href="http://www.igb.cnr.it/staff/people/tarallo">Valeria Tarallo</a>
      <br> Cancer and Angiogenesis</p>
       </td>
-      <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
+      <td><img src="./images/tarallo.jpg" alt="yay" width="50%" height="50%" >
       </td>
   </tr>
 
