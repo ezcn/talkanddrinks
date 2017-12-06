@@ -72,12 +72,12 @@ We are researchers with passion for science and a willingness to reach out and t
      <td> <p><a href="http://www.igb.cnr.it/staff/people/lonardoe"> Enza Lonardo </a>
      <br> Gastrointestinal Cancer</p>
       </td>
-      <td><img src="./img/embo2017.png" alt="yay" height="200" width="700">
+      <td><img src="images/lonardoe.jpeg" alt="yay" height="200" width="700">
       </td>
   </tr>
 
   <tr>
-     <td>Marco Salvemini
+     <td><a  href="http://star.evosexdevo.eu" > Marco Salvemini </a> 
       </td>
       <td><img src="images/ph_salvemini.jpg" alt="marco" height="200" width="700">
       </td>
