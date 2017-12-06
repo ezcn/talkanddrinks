@@ -87,7 +87,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td><p> <a href="http://www.igb.cnr.it/staff/people/tarallo">Valeria Tarallo</a>
      <br> Cancer and Angiogenesis</p>
       </td>
-      <td><img src="./images/tarallo.jpg" alt="yay" width="50%" height="50%" >
+      <td><img src="./images/tarallo.jpg" alt="tara" width="50%" height="50%" >
       </td>
   </tr>
 
