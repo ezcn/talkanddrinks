@@ -41,7 +41,7 @@ Piano Rialzato - Stanza 11 <br>
 <p> Talk&amp;Drinks is a self-supported event, we rely on your contribution, especially for ideas </p>
 
 
-<img src="images/vecchiologo.jpg" alt="formula">
+<img src="images/nuovologo.jpg" alt="formula">
 
 
 
