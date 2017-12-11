@@ -64,7 +64,7 @@ We are researchers with passion for science and a willingness to reach out and t
     <td> <p> <a href="http://www.igb.cnr.it/popgenlab"> Enza Colonna </a>
     <br> Population Genetics and Human Evolution </p>
     </td>
-    <td><img src="images/foto_Enza2.jpg" alt="enza" width="50%" height="50%">
+    <td><img src="images/foto_Enza2.jpg" alt="enza" >
     </td>
   </tr>
 
@@ -72,7 +72,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td> <p><a href="http://www.igb.cnr.it/staff/people/lonardoe"> Enza Lonardo </a>
      <br> Gastrointestinal Cancer</p>
       </td>
-      <td><img src="images/lonardoe2.jpg" alt="yay" width="50%" height="50%">
+      <td><img src="images/lonardoe2.jpg" alt="yay" >
       </td>
   </tr>
 
@@ -80,7 +80,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td> <p> <a  href="http://star.evosexdevo.eu" > Marco Salvemini </a>
      <br> Molecular Genetics and Insect Pest Control </p>
       </td>
-      <td><img src="images/ph_salvemini2.jpg" alt="marco" width="50%" height="50%">
+      <td><img src="images/ph_salvemini2.jpg" alt="marco" >
       </td>
   </tr>
 
@@ -88,7 +88,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td><p> <a href="http://www.igb.cnr.it/staff/people/tarallo">Valeria Tarallo</a>
      <br> Cancer and Angiogenesis</p>
       </td>
-      <td><img src="./images/tara2.jpg" alt="tara" width="50%" height="50%" >
+      <td><img src="./images/tara2.jpg" alt="tara"  >
       </td>
   </tr>
 
