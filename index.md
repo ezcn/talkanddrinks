@@ -56,7 +56,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td> <p><a href="http://ibbr.cnr.it/ibbr/people/alessandra-rogato"> Alessandra Rogato</a>
      <br> Marine Genetics </p>
      </td>
-     <td><img src="./images/alessandra.png" alt="yay" width="50%" height="50%" >
+     <td><img src="./images/alessandra2.png" alt="yay" width="50%" height="50%" >
      </td>
   </tr>
 
@@ -64,7 +64,7 @@ We are researchers with passion for science and a willingness to reach out and t
     <td> <p> <a href="http://www.igb.cnr.it/popgenlab"> Enza Colonna </a>
     <br> Population genetics and Human Evolution </p>
     </td>
-    <td><img src="images/foto_Enza.jpg" alt="enza" height="200" width="700">
+    <td><img src="images/foto_Enza2.jpg" alt="enza" height="200" width="700">
     </td>
   </tr>
 
@@ -72,14 +72,14 @@ We are researchers with passion for science and a willingness to reach out and t
      <td> <p><a href="http://www.igb.cnr.it/staff/people/lonardoe"> Enza Lonardo </a>
      <br> Gastrointestinal Cancer</p>
       </td>
-      <td><img src="images/lonardoe.jpg" alt="yay" height="200" width="700">
+      <td><img src="images/lonardoe2.jpg" alt="yay" height="200" width="700">
       </td>
   </tr>
 
   <tr>
      <td><a  href="http://star.evosexdevo.eu" > Marco Salvemini </a>
       </td>
-      <td><img src="images/ph_salvemini.jpg" alt="marco" height="200" width="700">
+      <td><img src="images/ph_salvemini2.jpg" alt="marco" height="200" width="700">
       </td>
   </tr>
 
@@ -87,7 +87,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td><p> <a href="http://www.igb.cnr.it/staff/people/tarallo">Valeria Tarallo</a>
      <br> Cancer and Angiogenesis</p>
       </td>
-      <td><img src="./images/tara.jpg" alt="tara" width="50%" height="50%" >
+      <td><img src="./images/tara2.jpg" alt="tara" width="50%" height="50%" >
       </td>
   </tr>
 
