@@ -77,7 +77,8 @@ We are researchers with passion for science and a willingness to reach out and t
   </tr>
 
   <tr>
-     <td><a  href="http://star.evosexdevo.eu" > Marco Salvemini </a>
+     <td> <p> <a  href="http://star.evosexdevo.eu" > Marco Salvemini </a>
+     <br> Molecular genetics and Insect Pest Control </p>
       </td>
       <td><img src="images/ph_salvemini2.jpg" alt="marco" height="200" width="700">
       </td>
