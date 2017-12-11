@@ -56,7 +56,7 @@ We are researchers with passion for science and a willingness to reach out and t
      <td> <p><a href="http://ibbr.cnr.it/ibbr/people/alessandra-rogato"> Alessandra Rogato</a>
      <br> Marine Genetics </p>
      </td>
-     <td><img src="./images/alessandra2.jpg" alt="yay" width="50%" height="50%" >
+     <td><img src="./images/alessandra2.jpg" alt="yay"  >
      </td>
   </tr>
 
