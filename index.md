@@ -7,7 +7,7 @@
      <td><h3 style="color:#cbf078;">When?</h3>
      <p><h4 style="color:#f8f398;" > Thursday December 14th 2017  <br> 5:00 pm </h4></p>
      </td>
-     <td><img src="images/20171214_locandina.jpg" alt="yay"  width="70%" height="70%">
+     <td><img src="images/20171214_locandina.jpg" alt="yay"  >
      </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ We are researchers with passion for science and a willingness to reach out and t
 
   <tr>
     <td> <p> <a href="http://www.igb.cnr.it/popgenlab"> Enza Colonna </a>
-    <br> Population genetics and Human Evolution </p>
+    <br> Population Genetics and Human Evolution </p>
     </td>
     <td><img src="images/foto_Enza2.jpg" alt="enza" width="50%" height="50%">
     </td>
@@ -78,7 +78,7 @@ We are researchers with passion for science and a willingness to reach out and t
 
   <tr>
      <td> <p> <a  href="http://star.evosexdevo.eu" > Marco Salvemini </a>
-     <br> Molecular genetics and Insect Pest Control </p>
+     <br> Molecular Genetics and Insect Pest Control </p>
       </td>
       <td><img src="images/ph_salvemini2.jpg" alt="marco" width="50%" height="50%">
       </td>
