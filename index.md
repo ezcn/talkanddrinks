@@ -123,3 +123,8 @@ We are researchers with passion for science and a willingness to reach out and t
 
 
 <h1 style="color:#e46161;">Past editions</h1>
+
+
+<h1 style="color:#e46161;">Sponsor</h1>
+<a href="http://www.contradeditaurasi.it/">Cantine Lonardo</a> supports "Drinks" at Talk&Drinks! 
+<img src="images/logo_lonardo.jpg" alt="formula">
