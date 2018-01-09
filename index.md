@@ -25,6 +25,19 @@ Piano Rialzato - Stanza 11 <br>
 
 
 
+<h1 style="color:#e46161;">2017/2018 Talk&amp;Drinks?</h1>
+
+<table style="width:100%">
+  <tr>
+     <td><h3 style="color:#cbf078;">When?</h3>
+     <p><h4 style="color:#f8f398;" > Thursday December 14th 2017  <br> 5:00 pm <br> Speaker: Marco Salvemini </h4></p>
+     </td>
+     <td><img src="images/20171214_locandina.jpg" alt="yay"  >
+     </td>
+  </tr>
+</table>
+
+
 
 <h1 style="color:#e46161;">What are the Talk&amp;Drinks?</h1>
 
