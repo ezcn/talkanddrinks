@@ -25,7 +25,7 @@ Piano Rialzato - Stanza 11 <br>
 
 
 
-<h1 style="color:#e46161;">2017/2018 Talk&amp;Drinks?</h1>
+<h1 style="color:#e46161;">2017/2018 Talk&amp;Drinks</h1>
 
 <table style="width:100%">
   <tr>
