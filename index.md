@@ -29,7 +29,7 @@ Piano Rialzato - Stanza 11 <br>
 
 <table style="width:100%">
   <tr>
-     <td><h3 style="color:#cbf078;">When?</h3>
+     <td>
      <p><h4 style="color:#f8f398;" > Thursday December 14th 2017  <br> 5:00 pm <br> Speaker: Marco Salvemini </h4></p>
      </td>
      <td><img src="images/20171214_locandina.jpg" alt="yay"  >
